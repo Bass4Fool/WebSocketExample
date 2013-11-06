@@ -5,10 +5,6 @@ Web Socket Example (Java and JavaScript)
 
 # Eclipse integration
 <ol>
-<li>apples</li>
-<li>oranges</li>
-<li>pears</li>
-
 <li> Import project from git. As general project.</li>
 <li> Convert it into Maven project (Right click on project and configure).</li>
 <li> Convert the project to web app. </li>
