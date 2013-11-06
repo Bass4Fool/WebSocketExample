@@ -3,18 +3,20 @@ WebSocketExample
 
 Web Socket Example (Java and JavaScript)
 
-Eclipse integration:
-1) Import project from git. As general project.
-2) Convert it into Maven project (Right click on project and configure).
-3) Convert to web app. 
-  3.1) Roight click on project.
-  3.2) Configure -> Convert to JPA project
-  3.3) Unselect JPA
-  3.4) Select Dynamic Web Module
-4) Import Catalina library (it is located where the tomcat has been installed)
-5) Make sure the version of pom tomcat dependencies are the same than your installed tomcat.
-6) Update Maven.
-7) If errors (Maven extrange errors) delete them
-8) Run as servlet.
-9) Test
-10) Enjoy and Hack ;)
+# Eclipse integration
+<ol>
+<li>apples</li>
+<li>oranges</li>
+<li>pears</li>
+
+<li> Import project from git. As general project.</li>
+<li> Convert it into Maven project (Right click on project and configure).</li>
+<li> Convert the project to web app. </li>
+<li> Import Catalina library (it is located where the tomcat has been installed)</li>
+<li> Make sure the version of pom tomcat dependencies are the same than your installed tomcat.</li>
+<li> Update Maven.</li>
+<li> Add the plugin </li>
+<li> Run as servlet.</li>
+<li> Test</li>
+<li> Enjoy and Hack ;)</li>
+</ol>
